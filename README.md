@@ -11,6 +11,10 @@
 
 ## 🚀 Featured projects
 
+### [boe-rag-assistant](https://github.com/gonzalonao/boe-rag-assistant)
+An **eval-driven RAG assistant** over the BOE (Spain's official gazette): **hybrid retrieval** (dense + BM25) with **cross-encoder reranking** and grounded **cite-or-refuse** answers, served behind a FastAPI service and a Gradio chat UI. Quality is measured, not assumed — retrieval metrics plus an **LLM-as-judge** harness. Artifacts published to the Hugging Face Hub.
+`Python` · `RAG` · `Sentence-Transformers` · `FastAPI` · `LLM-as-judge`
+
 ### [flight-delay-propagation](https://github.com/gonzalonao/flight-delay-propagation)
 Predictive modeling of how flight delays propagate through air-traffic networks, modeled as a graph of airports and routes. Progresses from dense/LSTM baselines to **Graph Attention Networks** and a full **spatio-temporal GNN**.
 `PyTorch` · `Graph Neural Networks` · `Time Series` · `Azure ML`
