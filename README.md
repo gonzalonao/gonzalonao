@@ -15,6 +15,10 @@
 Predictive modeling of how flight delays propagate through air-traffic networks, modeled as a graph of airports and routes. Progresses from dense/LSTM baselines to **Graph Attention Networks** and a full **spatio-temporal GNN**.
 `PyTorch` · `Graph Neural Networks` · `Time Series` · `Azure ML`
 
+### [MalagaHelper](https://malaga-helper.vercel.app) — live demo 🌐
+An **agentic multilingual tourist assistant** for Málaga: a Next.js + TypeScript app driven by an LLM tool-loop (events, parking, weather, web search) with an interactive Leaflet map. → **[Try it live](https://malaga-helper.vercel.app)**
+`Next.js` · `TypeScript` · `LLM tool-use` · `Leaflet`
+
 ### Steam Market analytics platform *(public release in progress)*
 A data-engineering project: an ETL pipeline that fetches and snapshots Steam Community Market data into **DuckDB**, fronted by a **FastAPI + React** analytics dashboard. Showcases pipeline design, storage modeling, and a real web UI.
 
@@ -32,4 +36,4 @@ My personal site — **Astro + MDX + Tailwind**, project case studies as content
 
 ---
 
-<sub>📊 Foundations: <a href="https://www.42network.org/">42 School</a> coursework (C — Libft, ft_printf, get_next_line).</sub>
+📊 **Foundations:** [42 School](https://www.42network.org/) coursework in C — Libft, ft_printf, get_next_line.
