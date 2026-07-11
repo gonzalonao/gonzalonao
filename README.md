@@ -5,7 +5,7 @@
 - 🎓 Master's thesis on **spatio-temporal Graph Neural Networks** for predicting flight-delay propagation across the U.S. air-traffic network.
 - 🛠️ Comfortable across the stack: **Python · PyTorch · FastAPI · React · DuckDB · Azure (ML / Fabric)**.
 - 🌍 Based in Málaga, Spain.
-- 📫 Reach me at **gonzalonao@gmail.com** · [Portfolio](https://portfolio-astro-two-phi.vercel.app)
+- 📫 Reach me at **gonzalonao@gmail.com** · [Portfolio](https://gonzalonao.vercel.app)
 
 ---
 
@@ -27,7 +27,7 @@ An **agentic multilingual tourist assistant** for Málaga: a Next.js + TypeScrip
 A data-engineering project: an ETL pipeline that fetches and snapshots Steam Community Market data into **DuckDB**, fronted by a **FastAPI + React** analytics dashboard. Showcases pipeline design, storage modeling, and a real web UI.
 
 ### [portfolio-astro](https://github.com/gonzalonao/portfolio-astro)
-My personal site — **Astro + MDX + Tailwind**, project case studies as content collections, KaTeX/Mermaid/Shiki, deployed on Vercel. → **[Live site](https://portfolio-astro-two-phi.vercel.app)**
+My personal site — **Astro + MDX + Tailwind**, project case studies as content collections, KaTeX/Mermaid/Shiki, deployed on Vercel. → **[Live site](https://gonzalonao.vercel.app)**
 
 ---
 
