@@ -40,4 +40,4 @@ My personal site — **Astro + MDX + Tailwind**, project case studies as content
 
 ---
 
-📊 **Foundations:** [42 School](https://www.42network.org/) coursework in C — Libft, ft_printf, get_next_line.
+📊 **Foundations:** systems programming in C at [42 School](https://www.42network.org/) — [42-cursus](https://github.com/gonzalonao/42-cursus): from a libc reimplementation up to UNIX pipelines, signal-based IPC, multithreading (dining philosophers) and a 3D wireframe renderer.
